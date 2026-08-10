@@ -137,21 +137,16 @@ width="95%"
 The activity graph uses the project's current canonical Vercel deployment rather than the discontinued Heroku/Cyclic deployments.
 
 ---
-
 # `06` // GITHUB_TROPHIES
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=Singh-Vedant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-width="95%"
+src="./profile/trophy.svg"
+width="100%"
 />
 
 </div>
-
-GitHub Profile Trophy supports the `tokyonight` theme and the `no-frame`, `no-bg`, `column`, and margin parameters used above.
-
----
 
 # `07` // FEATURED_PROJECTS
 
