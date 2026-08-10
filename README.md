@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Computer+Science+Engineering+Student;Building+Things+That+Actually+Work." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React;Computer+Science+Engineering+Student;Building+Things+That+Actually+Work." />
 
 <br/>
 
@@ -17,11 +17,15 @@
 <a href="https://github.com/Singh-Vedant">
 <img src="https://img.shields.io/github/followers/Singh-Vedant?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=09090b&color=00f7ff"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/Singh-Vedant?tab=repositories">
 <img src="https://img.shields.io/github/stars/Singh-Vedant?style=for-the-badge&logo=github&label=STARS&labelColor=09090b&color=8b5cf6"/>
 </a>
-&nbsp;
+
+ 
+
 <img src="https://komarev.com/ghpvc/?username=Singh-Vedant&style=for-the-badge&label=PROFILE+VIEWS&color=00f7ff&labelColor=09090b"/>
 
 </div>
@@ -92,55 +96,85 @@ I'm passionate about creating **real-world software**, understanding how systems
 
 ---
 
-## `03` // GITHUB_ANALYTICS
+# `03` // GITHUB_ANALYTICS
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Singh-Vedant&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00F7FF"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Singh-Vedant&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00F7FF"
+width="48%"
+/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh-Vedant&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh-Vedant&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
+width="42%"
+/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Singh-Vedant&hide_border=true&background=0D1117&stroke=30363D&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-width="70%"/>
-
-</div>
-
----
-
-## `04` // CONTRIBUTION_MATRIX
+### `REPOSITORY_OVERVIEW`
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Singh-Vedant&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-width="95%"/>
+src="https://github-readme-stats.vercel.app/api?username=Singh-Vedant&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=00F7FF"
+width="70%"
+/>
 
 </div>
 
+> GitHub Stats cards are dynamically generated. The public GitHub Readme Stats service is best-effort and can occasionally be affected by rate limits or traffic; self-hosting is recommended if you eventually want maximum reliability.
+
 ---
 
-## `05` // GITHUB_TROPHIES
+# `04` // CONTRIBUTION_STREAK
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=Singh-Vedant&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1"
-width="95%"/>
+src="https://streak-stats.demolab.com/?user=Singh-Vedant&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+width="75%"
+/>
 
 </div>
 
+The current streak service uses `streak-stats.demolab.com`, which is the current documented web deployment for GitHub Readme Streak Stats.
+
 ---
 
-## `06` // FEATURED_PROJECTS
+# `05` // CONTRIBUTION_MATRIX
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Singh-Vedant&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night"
+width="95%"
+/>
+
+</div>
+
+The activity graph uses the project's current canonical Vercel deployment rather than the discontinued Heroku/Cyclic deployments.
+
+---
+
+# `06` // GITHUB_TROPHIES
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Singh-Vedant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+width="95%"
+/>
+
+</div>
+
+GitHub Profile Trophy supports the `tokyonight` theme and the `no-frame`, `no-bg`, `column`, and margin parameters used above.
+
+---
+
+# `07` // FEATURED_PROJECTS
 
 <div align="center">
 
@@ -155,14 +189,17 @@ width="95%"/>
 
 A modern logistics platform focused on shipment management, tracking, addresses and administrative operations.
 
-**Stack**
+**STACK**
 
-`React` `Tailwind` `Spring Boot` `PostgreSQL`
+`React` `Tailwind CSS`
+`Spring Boot` `PostgreSQL`
 
 <br/>
 
 <a href="https://github.com/Singh-Vedant/ShipTrack-Pro">
+
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=09090b"/>
+
 </a>
 
 </td>
@@ -175,14 +212,17 @@ A modern logistics platform focused on shipment management, tracking, addresses 
 
 A project exploring detection of manipulated media using Machine Learning and Generative AI techniques.
 
-**Stack**
+**STACK**
 
-`Java` `Spring Boot` `React` `ML` `Generative AI`
+`Java` `Spring Boot`
+`React` `Machine Learning`
 
 <br/>
 
 <a href="https://github.com/Singh-Vedant">
+
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b"/>
+
 </a>
 
 </td>
@@ -194,12 +234,12 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-## `07` // CURRENTLY_BUILDING
+# `08` // CURRENTLY_BUILDING
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│  > Learning                                                │
+│  > LEARNING                                                │
 │                                                            │
 │    ├── Advanced Java                                       │
 │    ├── Spring Boot                                         │
@@ -208,7 +248,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 │    ├── System Design                                       │
 │    └── Data Structures & Algorithms                        │
 │                                                            │
-│  > Building                                                │
+│  > BUILDING                                                │
 │                                                            │
 │    ├── Full Stack Applications                             │
 │    ├── Backend Services                                    │
@@ -219,7 +259,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-## `08` // PROBLEM_SOLVING
+# `09` // PROBLEM_SOLVING
 
 <div align="center">
 
@@ -235,7 +275,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-## `09` // DEVELOPMENT_PHILOSOPHY
+# `10` // DEVELOPMENT_PHILOSOPHY
 
 <div align="center">
 
@@ -257,13 +297,13 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ### `Consistency > Motivation`
 
-### `Build > Watch`
+### `BUILD > WATCH`
 
 </div>
 
 ---
 
-## `10` // CONNECT
+# `11` // CONNECT
 
 <div align="center">
 
@@ -271,13 +311,19 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 <img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
+ 
+
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
+ 
+
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/PORTFOLIO-09090B?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
+
+ 
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
@@ -287,12 +333,14 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-## `11` // RESUME
+# `12` // RESUME
 
 <div align="center">
 
 <a href="YOUR_RESUME_URL">
+
 <img src="https://img.shields.io/badge/%E2%86%93%20VIEW_MY_RESUME-00F7FF?style=for-the-badge&labelColor=09090b&logo=readthedocs&logoColor=black"/>
+
 </a>
 
 </div>
