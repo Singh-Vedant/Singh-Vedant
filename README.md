@@ -101,33 +101,16 @@ I'm passionate about creating **real-world software**, understanding how systems
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Singh-Vedant&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00F7FF"
+src="./profile/stats.svg"
 width="48%"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh-Vedant&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
+src="./profile/top-langs.svg"
 width="42%"
 />
 
 </div>
-
-<br/>
-
-### `REPOSITORY_OVERVIEW`
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Singh-Vedant&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=00F7FF"
-width="70%"
-/>
-
-</div>
-
-> GitHub Stats cards are dynamically generated. The public GitHub Readme Stats service is best-effort and can occasionally be affected by rate limits or traffic; self-hosting is recommended if you eventually want maximum reliability.
-
----
 
 # `04` // CONTRIBUTION_STREAK
 
