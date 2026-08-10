@@ -117,15 +117,11 @@ width="42%"
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=Singh-Vedant&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+src="./profile/streak.svg"
 width="75%"
 />
 
 </div>
-
-The current streak service uses `streak-stats.demolab.com`, which is the current documented web deployment for GitHub Readme Streak Stats.
-
----
 
 # `05` // CONTRIBUTION_MATRIX
 
