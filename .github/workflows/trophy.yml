@@ -20,7 +20,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Singh-Vedant
-       file: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: tokyonight
+          max-cols: 6
+          max-rows: 3
+          no-background: true
+          no-frame: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy
