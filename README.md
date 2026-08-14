@@ -96,23 +96,18 @@ I'm passionate about creating **real-world software**, understanding how systems
 </p>
 
 ---
-
 # `03` // GITHUB_ANALYTICS
 
 <div align="center">
 
-<img
-src="./profile/stats.svg"
-width="48%"
-/>
+<img src="./profile/contributions.svg" width="72%">
 
-<img
-src="./profile/top-langs.svg"
-width="42%"
-/>
+<br><br>
+
+<img src="./profile/stats.svg" width="49%">
+<img src="./profile/top-langs.svg" width="49%">
 
 </div>
-
 # `04` // CONTRIBUTION_STREAK
 
 <div align="center">
