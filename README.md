@@ -111,20 +111,8 @@ I'm passionate about creating **real-world software**, understanding how systems
 
 ---
 
-# `04` // CONTRIBUTION_STREAK
 
-<div align="center">
-
-<img
-src="./profile/streak.svg"
-width="75%"
-/>
-
-</div>
-
----
-
-# `05` // CONTRIBUTION_MATRIX
+# `04` // CONTRIBUTION_MATRIX
 
 <div align="center">
 
@@ -139,7 +127,7 @@ width="95%"
 The activity graph uses the project's current canonical Vercel deployment rather than the discontinued Heroku/Cyclic deployments.
 
 ---
-# `06` // GITHUB_TROPHIES
+# `05` // GITHUB_TROPHIES
 
 <div align="center">
 
@@ -150,7 +138,7 @@ width="100%"
 
 </div>
 
-# `07` // FEATURED_PROJECTS
+# `06` // FEATURED_PROJECTS
 
 <div align="center">
 
@@ -210,8 +198,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-# `08` // CURRENTLY_BUILDING
-
+# `07` // FEATURED_PROJECTS
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
@@ -235,7 +222,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-# `09` // PROBLEM_SOLVING
+# `08` // PROBLEM_SOLVING
 
 <div align="center">
 
@@ -251,7 +238,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-# `10` // DEVELOPMENT_PHILOSOPHY
+# `09` // DEVELOPMENT_PHILOSOPHY
 
 <div align="center">
 
@@ -279,7 +266,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-# `11` // CONNECT
+# `10` // CONNECT
 
 <div align="center">
 
@@ -309,7 +296,7 @@ A project exploring detection of manipulated media using Machine Learning and Ge
 
 ---
 
-# `12` // RESUME
+# `11` // RESUME
 
 <div align="center">
 
