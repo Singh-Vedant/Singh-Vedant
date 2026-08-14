@@ -1,1 +1,77 @@
+name: Update Contribution Count
 
+"on":
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get GitHub contribution count
+        env:
+          GH_TOKEN: ${{ secrets.TROPHY_TOKEN }}
+        run: |
+          TOTAL=$(gh api graphql \
+            -f query='query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions}}}}' \
+            -f login='Singh-Vedant' \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+          echo "Total GitHub contributions: $TOTAL"
+
+          mkdir -p profile
+
+          cat > profile/contributions.svg <<EOF
+          <svg width="700" height="180" viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg">
+            <rect width="700" height="180" rx="18" fill="#0D1117"/>
+
+            <text x="350" y="48"
+                  text-anchor="middle"
+                  fill="#00F0FF"
+                  font-family="Arial, sans-serif"
+                  font-size="22"
+                  font-weight="700">
+              GITHUB CONTRIBUTIONS
+            </text>
+
+            <text x="350" y="112"
+                  text-anchor="middle"
+                  fill="#FFFFFF"
+                  font-family="Arial, sans-serif"
+                  font-size="52"
+                  font-weight="700">
+              $TOTAL
+            </text>
+
+            <text x="350" y="145"
+                  text-anchor="middle"
+                  fill="#8B949E"
+                  font-family="Arial, sans-serif"
+                  font-size="15">
+              contributions in the last year
+            </text>
+
+            <circle cx="350" cy="90" r="72"
+                    fill="none"
+                    stroke="#8B5CF6"
+                    stroke-width="2"
+                    opacity="0.35"/>
+          </svg>
+          EOF
+
+      - name: Commit contribution card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/contributions.svg
+          git commit -m "Update contribution count" || exit 0
+          git push
