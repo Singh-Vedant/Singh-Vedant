@@ -1,0 +1,35 @@
+<svg width="700" height="180" viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="180" rx="18" fill="#0D1117"/>
+
+  <text x="350" y="48"
+        text-anchor="middle"
+        fill="#00F0FF"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        font-weight="700">
+    GITHUB CONTRIBUTIONS
+  </text>
+
+  <text x="350" y="112"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="52"
+        font-weight="700">
+    48
+  </text>
+
+  <text x="350" y="145"
+        text-anchor="middle"
+        fill="#8B949E"
+        font-family="Arial, sans-serif"
+        font-size="15">
+    contributions in the last year
+  </text>
+
+  <circle cx="350" cy="90" r="72"
+          fill="none"
+          stroke="#8B5CF6"
+          stroke-width="2"
+          opacity="0.35"/>
+</svg>
