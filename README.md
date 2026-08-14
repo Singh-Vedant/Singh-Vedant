@@ -108,6 +108,9 @@ I'm passionate about creating **real-world software**, understanding how systems
 <img src="./profile/top-langs.svg" width="49%">
 
 </div>
+
+---
+
 # `04` // CONTRIBUTION_STREAK
 
 <div align="center">
@@ -119,17 +122,20 @@ width="75%"
 
 </div>
 
+---
+
 # `05` // CONTRIBUTION_MATRIX
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Singh-Vedant&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Singh-Vedant&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
 width="95%"
 />
 
 </div>
 
+---
 The activity graph uses the project's current canonical Vercel deployment rather than the discontinued Heroku/Cyclic deployments.
 
 ---
